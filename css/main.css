@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Roboto, Sans Serif";
-  src: url("/fonts/roboto/roboto-v20-latin_cyrillic-regular.woff2") format("woff2"), url("/fonts/roboto/roboto-v20-latin_cyrillic-regular.woff") format("woff");
+  src: url("../fonts/roboto/roboto-v20-latin_cyrillic-regular.woff2") format("woff2"), url("/fonts/roboto/roboto-v20-latin_cyrillic-regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Roboto, Sans Serif";
-  src: url("/fonts/roboto/roboto-v20-latin_cyrillic-500.woff2") format("woff2"), url("/fonts/roboto/roboto-v20-latin_cyrillic-500.woff") format("woff");
+  src: url("../fonts/roboto/roboto-v20-latin_cyrillic-500.woff2") format("woff2"), url("/fonts/roboto/roboto-v20-latin_cyrillic-500.woff") format("woff");
 }
 
 @font-face {
